@@ -1,2 +1,2 @@
-# python-basics
-Python practice scripts and exercises as I learn backend fundamentals.
+# Python Basics
+A collection of small exercises and scripts as I learn Python step by step.
